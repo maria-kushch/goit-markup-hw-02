@@ -53,6 +53,18 @@ h3 {
   text-decoration: none;
 }
 
+.navigation:hover a {
+  color: #404bbf;
+}
+
+#featuresnav:active {
+  color: #404bbf;
+}
+
+.address:hover a {
+  color: #404bbf;
+}
+
 .address a {
   color: #434455;
   font-weight: 400;
