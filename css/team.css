@@ -1,0 +1,26 @@
+h2 {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11111;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+}
+
+.images-team,
+.images {
+  list-style: none;
+}
+
+#team {
+  background-color: #f4f4fd;
+}
+
+.images-team li {
+  background-color: #fff;
+}
+
+.images-team h3,
+.images-team p {
+  text-align: center;
+}
