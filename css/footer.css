@@ -1,4 +1,4 @@
-#footer {
+.footer {
   background-color: #2e2f42;
 }
 
@@ -13,6 +13,6 @@
   text-decoration: none;
 }
 
-#footer p {
+.footer p {
   color: #f4f4fd;
 }
